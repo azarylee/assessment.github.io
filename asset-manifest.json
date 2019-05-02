@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.1bef508a.chunk.css",
+  "main.js": "/static/js/main.5af3d6d6.chunk.js",
+  "main.js.map": "/static/js/main.5af3d6d6.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.fc7b8d58.chunk.css": "/static/css/2.fc7b8d58.chunk.css",
+  "static/js/2.28e3e913.chunk.js": "/static/js/2.28e3e913.chunk.js",
+  "static/js/2.28e3e913.chunk.js.map": "/static/js/2.28e3e913.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.fc16ea63a584af9b7f6b833fd3a42254.js": "/precache-manifest.fc16ea63a584af9b7f6b833fd3a42254.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.fc7b8d58.chunk.css.map": "/static/css/2.fc7b8d58.chunk.css.map",
+  "static/css/main.1bef508a.chunk.css.map": "/static/css/main.1bef508a.chunk.css.map",
+  "static/media/fullAccessGoogleDocs.PNG": "/static/media/fullAccessGoogleDocs.10c75b33.PNG",
+  "static/media/onlyViewGoogleDocs.PNG": "/static/media/onlyViewGoogleDocs.7ac415f4.PNG",
+  "static/media/shareGoogleDocs.PNG": "/static/media/shareGoogleDocs.42fe2fcc.PNG",
+  "static/media/slackPublic.PNG": "/static/media/slackPublic.ca93d47e.PNG",
+  "static/media/slackprivate.PNG": "/static/media/slackprivate.676cd7dc.PNG",
+  "static/media/specifictoaccess.PNG": "/static/media/specifictoaccess.126cc840.PNG"
+}
