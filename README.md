@@ -4,13 +4,13 @@
 **_Google Docs and Slack_**
 
 
-This is my website to show my assessments, [visit it](http://www.ezibuykorea.com/emerging-tech/)
+This is my website to show my assessments, [visit it](http://www.ezibuykorea.com/emerging-tech/)  
 [**markdown**](www.markdown.com) is really helpful to write down the readme document.
 
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 [Benjamin Bannekat]
 
-[_emerging tech assessment_]:http://www.ezibuykorea.com/emerging-tech/
+[_emerging tech assessment_]:http://www.ezibuykorea.com/emerging-tech/  
 I read this interesting quote the other day:
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -34,3 +34,20 @@ I read this interesting quote the other day:
 * [**_Azalea_**](http://www.google.com/EricaceaeRhododendron)
 * Chrysanthemum (Anthemideae Chrysanthemum)
 * Dahlia (Coreopsideae Dahlia)
+
+* Calculus, A professor, Has no hair, Often wears green
+ * Castafiore, An opera singer, Has white hair, Is possibly mentally unwell
+ 
+ 
+1. Cut the cheese
+  * Make sure that the cheese is cut into little triangles.
+
+2. Slice the tomatoes
+  * Be careful when holding the knife.
+  * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+
+3. cut the bread
+  > cut the bread edges, that will taste better than before.
+
+4. put every thing together
+  * this is last step of doing the sandwich, you want to more information, please [click here](www.google.com) 
